@@ -2,4 +2,4 @@
 This is my first Git repository.
 my name is Nancy Sinha 
 <BR> 
-author 
+author name NANCY
